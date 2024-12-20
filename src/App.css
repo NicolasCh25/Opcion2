@@ -1,0 +1,13 @@
+body{
+  background-color: black;
+  align-items: center;
+}
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-left: 5%;
+}
+
+h1 {
+  color: #007bff;
+}
